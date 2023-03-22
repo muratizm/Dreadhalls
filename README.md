@@ -6,11 +6,11 @@
 
 ## ***What is Dreadhalls?***
 
-**"Dreadhalls" is a virtual reality horror game that takes you on a terrifying journey through a dark and eerie dungeon. And this is the demo of Dreadhalls game. this is a dreadhalls demo edited by me for the edx course assignment**
+**"Dreadhalls" is a virtual reality horror game that takes you on a terrifying journey through a dark and eerie dungeon. And this is the demo of Dreadhalls game.**
+
+***This is a dreadhalls demo edited by me for the edx course assignment***
 
 
 Murat Beder 
-
-Github : muratizm
 
 Ankara, Turkey
