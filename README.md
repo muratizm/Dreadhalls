@@ -6,7 +6,7 @@
 
 ## ***What is Dreadhalls?***
 
-**"Dreadhalls" is a virtual reality horror game that takes you on a terrifying journey through a dark and eerie dungeon. And this is the demo of Dreadhalls game.**
+**"Dreadhalls" is a virtual reality horror game that takes you on a terrifying journey through a dark and eerie dungeon.**
 
 ***This is a dreadhalls demo edited by me for the edx course assignment***
 
